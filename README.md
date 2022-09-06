@@ -5,9 +5,6 @@
 <h1 div align="center">happyhappybehappy's github </div></h1>
 <div align="right"> README.md Ver .0.1</div>
 
-<div align="right">
-[![Hits](https://hits.happyhappybehappy.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhappyhappybehappy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.happyhappybehappy.com)
-</div>
 <br><br><br>
 
 ### Hi there 👋
