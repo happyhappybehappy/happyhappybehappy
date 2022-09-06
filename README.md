@@ -5,8 +5,9 @@
 <h1 div align="center">happyhappybehappy's github </div></h1>
 <div align="right"> README.md Ver .0.1</div>
 
-<br><br><br>
-<div align="center">개발자 지망생 이찬민입니다</div>
+<br>
+개발자 지망생 이찬민입니다.
+<br><br>
             
 ### Hi there 👋
 
