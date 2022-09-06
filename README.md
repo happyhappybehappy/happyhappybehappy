@@ -1,3 +1,12 @@
+
+
+
+
+<h1 div align="center">happyhappybehappy's github </div></h1>
+<div align="center">#Personal-Project</div>
+<div align="right"> README.md Ver .0.1</div>
+<br><br><br>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/> : 6ns5wau73@gmail.com
