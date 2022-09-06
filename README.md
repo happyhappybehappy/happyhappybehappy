@@ -6,8 +6,9 @@
 <div align="right"> README.md Ver .0.1</div>
 
 <br><br><br>
-<h1 div align="center>개발자 지망생 이찬민입니다.</div></h1>
-<br><br><br>
+<div align="center>개발자 지망생 이찬민입니다.</div>
+
+            
 ### Hi there 👋
 
 <!--
