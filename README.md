@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 <br><br>
 
 #작업중입니다 . . .
-<p></p>
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/> : 6ns5wau73@gmail.com
